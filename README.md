@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alpharta0x
+- 👀 I’m interested in coding & writing scripts
+- 🌱 I’m currently learning nodejs
+- 📫 Reach out on discord: Alpharta#1337
